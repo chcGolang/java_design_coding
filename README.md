@@ -2,3 +2,5 @@
 java设计模式
 
 ## factory_pattern:工厂方法模式
+
+## abstract_factory: 抽象工厂

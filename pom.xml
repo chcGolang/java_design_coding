@@ -10,6 +10,7 @@
     <modules>
         <module>factory_pattern</module>
         <module>common</module>
+        <module>abstract_factory</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
