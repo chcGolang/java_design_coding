@@ -1,7 +1,8 @@
 package com.chc.design_coding.factory;
 
 /**
- * Created by geely
+ * @Author chc 
+ * @Date 2019/4/14 12:06
  */
 public class JavaVideo extends Video {
     @Override
