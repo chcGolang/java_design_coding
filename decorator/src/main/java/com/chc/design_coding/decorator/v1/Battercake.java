@@ -2,7 +2,7 @@ package com.chc.design_coding.decorator.v1;
 
 /**
  * @Author chc 
- * @Date 2019/4/20 13:58
+ * @Date 2019/4/20 14:37
  */
 public class Battercake {
     protected String getDesc(){

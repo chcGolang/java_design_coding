@@ -2,7 +2,7 @@ package com.chc.design_coding.decorator.v1;
 
 /**
  * @Author chc 
- * @Date 2019/4/20 14:00
+ * @Date 2019/4/20 14:26
  */
 public class Main {
     public static void main(String[] args) {

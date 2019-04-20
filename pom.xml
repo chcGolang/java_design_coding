@@ -16,6 +16,7 @@
         <module>prototype</module>
         <module>facade</module>
         <module>decorator</module>
+        <module>adapter</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
