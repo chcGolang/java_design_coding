@@ -12,6 +12,7 @@
         <module>common</module>
         <module>abstract_factory</module>
         <module>builder</module>
+        <module>singleton</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
