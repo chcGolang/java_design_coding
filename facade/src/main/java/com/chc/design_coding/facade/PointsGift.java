@@ -2,7 +2,7 @@ package com.chc.design_coding.facade;
 
 /**
  * @Author chc 
- * @Date 2019/4/20 13:29
+ * @Date 2019/4/20 13:57
  */
 public class PointsGift {
     private String name;

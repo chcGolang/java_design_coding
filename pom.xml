@@ -15,6 +15,7 @@
         <module>singleton</module>
         <module>prototype</module>
         <module>facade</module>
+        <module>decorator</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

@@ -11,3 +11,7 @@ java设计模式
 ## singleton: 单例模式
 
 ## prototype: 原型模式
+
+## facade:外观模式
+
+## decorator:装饰者模式
