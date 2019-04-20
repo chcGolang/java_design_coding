@@ -9,3 +9,5 @@ java设计模式
 * `com.chc.design_coding.builder.v2` :建造者模式演进版本(链式调用)
 
 ## singleton: 单例模式
+
+## prototype: 原型模式

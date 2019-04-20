@@ -2,7 +2,7 @@ package com.chc.design_coding.singleton;
 
 /**
  * @Author chc 
- * @Date 2019/4/20 11:24
+ * @Date 2019/4/20 11:45
  */
 public enum EnumInstance {
     INSTANCE{
