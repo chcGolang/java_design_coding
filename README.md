@@ -23,3 +23,5 @@ java设计模式
 ## flyweight: 享元模式
 
 ## composite:组合模式 *
+
+## bridge:桥接模式*
