@@ -18,10 +18,12 @@
         <module>decorator</module>
         <module>adapter</module>
         <module>flyweight</module>
+        <module>composite</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
         <lombol.version>1.18.6</lombol.version>
+        <fastjson.version>1.2.56</fastjson.version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
@@ -43,6 +45,14 @@
             <artifactId>logback-classic</artifactId>
             <version>1.2.3</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>${fastjson.version}</version>
+        </dependency>
+
 
     </dependencies>
     <build>
