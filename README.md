@@ -19,3 +19,5 @@ java设计模式
 * v2:装饰者模式的做法
 
 ## adapter:适配器模式
+
+## flyweight: 享元模式
