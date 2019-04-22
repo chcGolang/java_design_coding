@@ -25,3 +25,5 @@ java设计模式
 ## composite:组合模式 *
 
 ## bridge:桥接模式*
+
+## templatemethod:模板模式*

@@ -20,6 +20,7 @@
         <module>flyweight</module>
         <module>composite</module>
         <module>bridge</module>
+        <module>templatemethod</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
