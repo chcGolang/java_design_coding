@@ -21,6 +21,7 @@
         <module>composite</module>
         <module>bridge</module>
         <module>templatemethod</module>
+        <module>iterator</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

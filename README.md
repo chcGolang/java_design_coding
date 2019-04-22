@@ -27,3 +27,5 @@ java设计模式
 ## bridge:桥接模式*
 
 ## templatemethod:模板模式*
+
+## iterator:迭代器模式
