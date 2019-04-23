@@ -31,3 +31,5 @@ java设计模式
 ## iterator:迭代器模式
 
 ## strategy:策略模式
+
+## interpreter:解释器模式

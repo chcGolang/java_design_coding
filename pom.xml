@@ -23,6 +23,7 @@
         <module>templatemethod</module>
         <module>iterator</module>
         <module>strategy</module>
+        <module>interpreter</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
