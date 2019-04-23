@@ -33,3 +33,5 @@ java设计模式
 ## strategy:策略模式
 
 ## interpreter:解释器模式
+
+## observer:观察者模式
