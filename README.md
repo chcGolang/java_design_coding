@@ -41,3 +41,5 @@ java设计模式
 ## command:命令模式
 
 ## mediator:中介者模式
+
+## chainofresponsibility:责任链模式

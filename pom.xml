@@ -28,6 +28,7 @@
         <module>memento</module>
         <module>command</module>
         <module>mediator</module>
+        <module>chainofresponsibility</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
@@ -60,6 +61,12 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>${fastjson.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.6</version>
         </dependency>
 
 

@@ -2,7 +2,7 @@ package com.chc.design_coding.mediator;
 
 /**
  * @Author chc 
- * @Date 2019/4/24 20:40
+ * @Date 2019/4/24 20:58
  */
 public class User {
     private String name;
