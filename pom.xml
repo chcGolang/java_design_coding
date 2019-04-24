@@ -26,6 +26,7 @@
         <module>interpreter</module>
         <module>observer</module>
         <module>memento</module>
+        <module>command</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

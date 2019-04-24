@@ -37,3 +37,5 @@ java设计模式
 ## observer:观察者模式
 
 ## memento:备忘录模式
+
+## command:命令模式
