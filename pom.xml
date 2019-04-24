@@ -25,6 +25,7 @@
         <module>strategy</module>
         <module>interpreter</module>
         <module>observer</module>
+        <module>memento</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
