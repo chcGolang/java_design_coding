@@ -1,7 +1,8 @@
 package com.chc.design_coding.chainofresponsibility;
 
 /**
- * Created by geely
+ * @Author chc 
+ * @Date 2019/4/28 11:07
  */
 public class Course {
     private String name;

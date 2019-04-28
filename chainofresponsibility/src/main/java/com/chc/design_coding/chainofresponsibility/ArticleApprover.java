@@ -3,7 +3,8 @@ package com.chc.design_coding.chainofresponsibility;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * Created by geely
+ * @Author chc 
+ * @Date 2019/4/28 11:07
  */
 public class ArticleApprover extends Approver {
     @Override
