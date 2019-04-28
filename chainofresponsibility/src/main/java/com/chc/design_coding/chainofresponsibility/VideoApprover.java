@@ -4,7 +4,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * @Author chc 
- * @Date 2019/4/28 11:07
+ * @Date 2019/4/28 11:17
  */
 public class VideoApprover extends Approver{
     @Override

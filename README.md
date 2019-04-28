@@ -43,3 +43,5 @@ java设计模式
 ## mediator:中介者模式
 
 ## chainofresponsibility:责任链模式
+
+## visitor:访问者模式
