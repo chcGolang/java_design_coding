@@ -45,3 +45,5 @@ java设计模式
 ## chainofresponsibility:责任链模式
 
 ## visitor:访问者模式
+
+## state:状态模式

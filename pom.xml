@@ -30,6 +30,7 @@
         <module>mediator</module>
         <module>chainofresponsibility</module>
         <module>visitor</module>
+        <module>state</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
